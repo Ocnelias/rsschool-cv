@@ -26,10 +26,16 @@ https://github.com/ocnelias
 
 ### Experience
 2017-2020:
-<b>PHP developer</b> <br>
+<b>PHP developer</b> <br />
 independent contractor
 
 
 ### Education
+2006-2010 <b>Bachelor of Engineering</b> <br />
+Poltava National Technical University named after Yuri Kondratyuk
 
 ### Foreign Languages
+* English – Intermediate (B1)
+* German – Elementary (A2)
+* Ukrainian – native
+* Russian – native
