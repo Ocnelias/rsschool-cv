@@ -1,6 +1,6 @@
-#Dmytry Salenko
+# Dmytry Salenko
 
-##Frontend Web Developer
+## Frontend Web Developer
 
 ### Contacts
 
