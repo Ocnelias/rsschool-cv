@@ -1,0 +1,32 @@
+.cv {
+    width: 80%;
+    background: #f0f0f0;
+    color: #000000;
+    padding: 1rem;
+    /*border: 1px solid black;*/
+    margin: auto;
+    text-align:center;
+}
+
+.contacts ul li, .skills ul li, .languages ul li {
+    list-style-type: none;
+}
+
+.photo {
+    position: absolute;
+    top: 8px;
+    left: 80%;
+}
+
+img {
+    width: 128px;
+}
+
+.upper-right {
+    position: absolute;
+    top: 8px;
+    right: 9%;
+}
+
+
+
