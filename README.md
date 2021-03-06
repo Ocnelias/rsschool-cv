@@ -1,1 +1,1 @@
-https://ocnelias.github.io/rsschool-cv/cv
+<a href="https://ocnelias.github.io/rsschool-cv/">CV</a>
