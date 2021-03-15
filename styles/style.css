@@ -1,0 +1,66 @@
+.cv {
+    width: 80%;
+    background: #f0f0f0;
+    color: #000000;
+    padding: 1rem;
+    margin: auto;
+}
+
+.main {
+    width: 80%;
+    background: white;
+    color: #000000;
+    padding: 1rem;
+    margin: auto;
+    text-align: center;
+    filter: drop-shadow(-50px 0px 150px #02160B);
+}
+
+.contacts div {
+    display: inline-block;
+    text-align: left;
+    margin-top: -20px;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+.photo {
+    position: absolute;
+    top: 8px;
+    left: 80%;
+}
+
+img {
+    width: 120px;
+    filter: drop-shadow(2px 8px 6px black);
+}
+
+img:hover {
+    transform: scaleX(-1);
+}
+
+figure {
+    position: absolute;
+    top: 4%;
+    right: 4%;
+}
+
+footer {
+    width: 80%;
+    background: #afafb4;
+    color: #000000;
+    padding: 1rem;
+    /*border: 1px solid black;*/
+    margin: auto;
+    text-align: center;
+}
+
+.links ul {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
